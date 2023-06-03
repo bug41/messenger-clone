@@ -1,3 +1,5 @@
+import DesktopSidebar from "./DesktopSidebar";
+
 async function Sidebar({ children }: {
     children: React.ReactNode;
 }) {
